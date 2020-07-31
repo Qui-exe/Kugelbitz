@@ -13,7 +13,7 @@
 	
 	if (isset($_SESSION['username']) ){
 		
-		echo 'Welcome , '.$_SESSION['username'];
+		echo 'W E L C O M E , '.$_SESSION['username'];
 		
 		echo '<br><a href="logout.php">Logout</a>';
 		
