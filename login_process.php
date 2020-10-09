@@ -32,6 +32,6 @@
 		mysqli_close($db_con);
 	}	
 	
-		header('Location: index.php');
+		header('Location: homepage.html');
 
 

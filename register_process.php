@@ -98,7 +98,7 @@
 				$_SESSION['y_pos'] = $pos[1];
 				$_SESSION['player_color'] = $color;
 				
-				header('Location: index.php');
+				header('Location: homepage.html');
 			}
 			else{
 				echo 'ERROR, INVALID USERNAME';
